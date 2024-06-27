@@ -8,9 +8,9 @@ export const dataObj = {"restaurants": [
         "areaName": "Devika Sadar Bazar",
         "costForTwo": "₹350 for two",
         "cuisines": ["Pizzas"],
-        "avgRating": 4,
+        "avgRating": 3,
         "parentId": "721",
-        "avgRatingString": "4.0",
+        "avgRatingString": "3.0",
         "totalRatingsString": "100+",
         "sla": {
           "deliveryTime": 43,
